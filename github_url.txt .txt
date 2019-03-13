@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 https://github.com/editorDJ/Examen-HTML
+=======
+https://github.com/editorDJ/Examen-HTML
+>>>>>>> 7e9a06f57970f233c0b0aced910824eabfad60ee
